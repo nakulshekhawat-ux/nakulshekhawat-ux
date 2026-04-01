@@ -73,8 +73,9 @@ Real-time health analysis from tongue photos using AI. Provides personalized mea
 
 - **GitHub:** [github.com/nakulshekhawat-ux](https://github.com/nakulshekhawat-ux)
 - **Portfolio:** [nakulshekhawat-ux.github.io/portfolio](https://nakulshekhawat-ux.github.io/portfolio)
-- **Email:** nakuldivyanakul@gmail.com
+- **Email:** (nakuldivyanakul@gmail.com)
+- **toungepal url:** (tongueo.netlify.app)
+- **prototype model of the black teaches website:&* (blackteach.netlify.app)
 
----
 
 *"I didn't just build a game engine. I built a reality engine." - Nakul Shekhawat*
